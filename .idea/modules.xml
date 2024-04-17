@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basico/basico.iml" filepath="$PROJECT_DIR$/basico/basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta-banco/conta-banco.iml" filepath="$PROJECT_DIR$/conta-banco/conta-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta-banco-t-c/conta-banco-t-c.iml" filepath="$PROJECT_DIR$/conta-banco-t-c/conta-banco-t-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curinga-delimitados/curinga-delimitados.iml" filepath="$PROJECT_DIR$/curinga-delimitados/curinga-delimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora/data-hora.iml" filepath="$PROJECT_DIR$/data-hora/data-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumeracao/enumeracao.iml" filepath="$PROJECT_DIR$/enumeracao/enumeracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumeracao-e-f/enumeracao-e-f.iml" filepath="$PROJECT_DIR$/enumeracao-e-f/enumeracao-e-f.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumeracao-e-r-1/enumeracao-e-r-1.iml" filepath="$PROJECT_DIR$/enumeracao-e-r-1/enumeracao-e-r-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumeracao-e-r-2/enumeracao-e-r-2.iml" filepath="$PROJECT_DIR$/enumeracao-e-r-2/enumeracao-e-r-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-secao9/exercicio-secao9.iml" filepath="$PROJECT_DIR$/exercicio-secao9/exercicio-secao9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-for/exercicios-for.iml" filepath="$PROJECT_DIR$/exercicios-for/exercicios-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-secao10/exercicios-secao10.iml" filepath="$PROJECT_DIR$/exercicios-secao10/exercicios-secao10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-secao4/exercicios-secao4.iml" filepath="$PROJECT_DIR$/exercicios-secao4/exercicios-secao4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-secao5/exercicios-secao5.iml" filepath="$PROJECT_DIR$/exercicios-secao5/exercicios-secao5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-while/exercicios-while.iml" filepath="$PROJECT_DIR$/exercicios-while/exercicios-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file/file.iml" filepath="$PROJECT_DIR$/file/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-e-f/file-e-f.iml" filepath="$PROJECT_DIR$/file-e-f/file-e-f.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashCode-Equals/hashCode-Equals.iml" filepath="$PROJECT_DIR$/hashCode-Equals/hashCode-Equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-comparable/interface-comparable.iml" filepath="$PROJECT_DIR$/interface-comparable/interface-comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-default-methods/interface-default-methods.iml" filepath="$PROJECT_DIR$/interface-default-methods/interface-default-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces-h-m/interfaces-h-m.iml" filepath="$PROJECT_DIR$/interfaces-h-m/interfaces-h-m.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces-pagamento/interfaces-pagamento.iml" filepath="$PROJECT_DIR$/interfaces-pagamento/interfaces-pagamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda-e-p/lambda-e-p.iml" filepath="$PROJECT_DIR$/lambda-e-p/lambda-e-p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda-e-r/lambda-e-r.iml" filepath="$PROJECT_DIR$/lambda-e-r/lambda-e-r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda1/lambda1.iml" filepath="$PROJECT_DIR$/lambda1/lambda1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda2/lambda2.iml" filepath="$PROJECT_DIR$/lambda2/lambda2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda4/lambda4.iml" filepath="$PROJECT_DIR$/lambda4/lambda4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda5/lambda5.iml" filepath="$PROJECT_DIR$/lambda5/lambda5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda6/lambda6.iml" filepath="$PROJECT_DIR$/lambda6/lambda6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-exercicio/list-exercicio.iml" filepath="$PROJECT_DIR$/list-exercicio/list-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map/map.iml" filepath="$PROJECT_DIR$/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map-e-r/map-e-r.iml" filepath="$PROJECT_DIR$/map-e-r/map-e-r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map2/map2.iml" filepath="$PROJECT_DIR$/map2/map2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz-exercicio-proposto/matriz-exercicio-proposto.iml" filepath="$PROJECT_DIR$/matriz-exercicio-proposto/matriz-exercicio-proposto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz-exercicio-resolvido/matriz-exercicio-resolvido.iml" filepath="$PROJECT_DIR$/matriz-exercicio-resolvido/matriz-exercicio-resolvido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodo-generico/metodo-generico.iml" filepath="$PROJECT_DIR$/metodo-generico/metodo-generico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos-abs-e-f/metodos-abs-e-f.iml" filepath="$PROJECT_DIR$/metodos-abs-e-f/metodos-abs-e-f.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodos-abs-e-r/metodos-abs-e-r.iml" filepath="$PROJECT_DIR$/metodos-abs-e-r/metodos-abs-e-r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pensionato/pensionato.iml" filepath="$PROJECT_DIR$/pensionato/pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilha-de-chamada-de-metodos-tc/pilha-de-chamada-de-metodos-tc.iml" filepath="$PROJECT_DIR$/pilha-de-chamada-de-metodos-tc/pilha-de-chamada-de-metodos-tc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pipeline/pipeline.iml" filepath="$PROJECT_DIR$/pipeline/pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismo-e-f/polimorfismo-e-f.iml" filepath="$PROJECT_DIR$/polimorfismo-e-f/polimorfismo-e-f.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polimorfismo-e-r/polimorfismo-e-r.iml" filepath="$PROJECT_DIR$/polimorfismo-e-r/polimorfismo-e-r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservas-t-c/reservas-t-c.iml" filepath="$PROJECT_DIR$/reservas-t-c/reservas-t-c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/revisao.iml" filepath="$PROJECT_DIR$/.idea/revisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set/set.iml" filepath="$PROJECT_DIR$/set/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set-e-p/set-e-p.iml" filepath="$PROJECT_DIR$/set-e-p/set-e-p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/set-e-r/set-e-r.iml" filepath="$PROJECT_DIR$/set-e-r/set-e-r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soma-preco-produto/soma-preco-produto.iml" filepath="$PROJECT_DIR$/soma-preco-produto/soma-preco-produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetor/vetor.iml" filepath="$PROJECT_DIR$/vetor/vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
+    </modules>
+  </component>
+</project>

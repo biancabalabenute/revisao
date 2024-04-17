@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basico/basico.iml" filepath="$PROJECT_DIR$/basico/basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-for/exercicios-for.iml" filepath="$PROJECT_DIR$/exercicios-for/exercicios-for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-secao4/exercicios-secao4.iml" filepath="$PROJECT_DIR$/exercicios-secao4/exercicios-secao4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-secao5/exercicios-secao5.iml" filepath="$PROJECT_DIR$/exercicios-secao5/exercicios-secao5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-while/exercicios-while.iml" filepath="$PROJECT_DIR$/exercicios-while/exercicios-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/revisao.iml" filepath="$PROJECT_DIR$/.idea/revisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vetores/vetores.iml" filepath="$PROJECT_DIR$/vetores/vetores.iml" />
+    </modules>
+  </component>
+</project>
